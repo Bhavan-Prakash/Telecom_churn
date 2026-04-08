@@ -52,7 +52,7 @@ This project helped me:
 ---
 
 ### Combined Pipeline
-'''
+```
 ColumnTransformer:
 ├── Numerical Pipeline
 └── Categorical Pipeline
@@ -60,7 +60,7 @@ ColumnTransformer:
 Final Pipeline:
 → Preprocessing
 → Logistic Regression Model
-'''
+```
 
 
 ---
@@ -80,10 +80,10 @@ Final Pipeline:
 
 ### Confusion Matrix
 
-'''
+```
 [[38946 0]
 [ 9765 0]]
-'''
+```
 
 ---
 
@@ -99,13 +99,11 @@ Class 1 → not predicted at all
 
 ## Screenshots (Add your results here)
 
-> Create an `images/` folder in your repo and add screenshots
-
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](/Users/bhavan/Documents/codes/Telecom_Churn/Images/result.jpeg)
 
-### Classification Report
-![Classification Report](images/report.png)
+### Dataset info
+![Dataset Info](/Users/bhavan/Documents/codes/Telecom_Churn/Images/dataset.jpeg)
 
 ---
 
@@ -152,7 +150,7 @@ project/
 ├── requirements.txt
 └── README.md
 
-'''
+```
 
 
 ---
