@@ -140,14 +140,15 @@ This highlights a **class imbalance problem**, where accuracy becomes misleading
 
 ## Suggested Folder Structure
 
+```
 project/
 │
 ├── data/
 ├── images/
 ├── notebook/
 ├── src/
-│ ├── preprocessing.py
-│ ├── model.py
+│   ├── preprocessing.py
+│   ├── model.py
 │
 ├── main.py
 ├── requirements.txt
