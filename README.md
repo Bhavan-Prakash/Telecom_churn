@@ -52,6 +52,7 @@ This project helped me:
 ---
 
 ### Combined Pipeline
+'''
 ColumnTransformer:
 ├── Numerical Pipeline
 └── Categorical Pipeline
@@ -59,6 +60,7 @@ ColumnTransformer:
 Final Pipeline:
 → Preprocessing
 → Logistic Regression Model
+'''
 
 
 ---
@@ -78,9 +80,10 @@ Final Pipeline:
 
 ### Confusion Matrix
 
+'''
 [[38946 0]
 [ 9765 0]]
-
+'''
 
 ---
 
@@ -138,21 +141,18 @@ This highlights a **class imbalance problem**, where accuracy becomes misleading
 
 ---
 
-## Suggested Folder Structure
+## Folder Structure
 
 ```
 project/
 │
-├── data/
 ├── images/
 ├── notebook/
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│
 ├── main.py
 ├── requirements.txt
 └── README.md
+
+'''
 
 
 ---
