@@ -100,10 +100,10 @@ Class 1 → not predicted at all
 ## Screenshots (Add your results here)
 
 ### Confusion Matrix
-![Confusion Matrix](Telecom_Churn/Images/result.jpeg)
+![Confusion Matrix](Images/result.jpeg)
 
 ### Dataset info
-![Dataset Info](Telecom_Churn/Images/dataset.jpeg)
+![Dataset Info](Images/dataset.jpeg)
 
 ---
 
